@@ -29,7 +29,8 @@ public class Page
         {
             driver.findElement(By.cssSelector("button.btn.btn-outline-primary.btn-sm.float-right")).click();
         }
-
+//Click
+        
 
         for(int i=2;i<=7;i++)
         {
